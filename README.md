@@ -39,6 +39,9 @@ Kelime ayrıştırma ve gereksiz kelimelerin çıkarılması için nltk kullanı
 # 6. Sonuçlar ve Gelecek Çalışmalar
 Sonuçlar:
 Reddit gönderilerinden oluşan temiz ve etiketlenmiş bir veri seti oluşturuldu.
+![output (1)](https://github.com/user-attachments/assets/6ad1e957-a0ce-44c7-9e0d-dac2893f3586)
+![output](https://github.com/user-attachments/assets/528c711f-9631-47dd-910e-7624fe65318d)
+
 Veri seti, makine öğrenimi modelleri için uygun hale getirildi.
 Gelecek Çalışmalar:
 İntihara meyillilik analizi için bir sınıflandırma modeli geliştirilmesi.
