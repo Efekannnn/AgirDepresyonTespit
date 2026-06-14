@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+nltk
+httpx
+deep-translator
+transformers
+torch
+matplotlib
